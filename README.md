@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Jyotishmoi Boro
 
 **B.Tech CSE | Cybersecurity**
@@ -37,7 +35,7 @@ Cybersecurity • Web Security • Python • Linux • C/C++ • DSA
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuht-lin&show_icons=true&theme=github_dark)
 
 ## Connect with me
 
