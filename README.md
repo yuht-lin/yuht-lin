@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**yuht-lin/yuht-lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jyotishmoi Boro
 
-Here are some ideas to get you started:
+**B.Tech CSE | Cybersecurity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity • Web Security • Python • Linux • C/C++ • DSA
+
+---
+
+## What I'm working on
+
+🔐 Web & API Security  
+🛡️ Ethical Hacking & Penetration Testing  
+🐧 Linux & System Programming  
+💻 Data Structures & Algorithms  
+🤖 AI/ML for Security  
+
+## Currently Learning
+
+- Burp Suite
+- Web Security
+- Bug Bounty
+- Network Security
+- Kali Linux
+- C/C++
+
+## Projects
+
+| Project | Description |
+|---|---|
+| **MyOS** | Experimental operating system |
+| **FloodMesh AI** | AI-powered emergency resource allocation |
+| **Cybersecurity Labs** | Security labs and writeups |
+| **LeetCode Solutions** | DSA practice |
+| **Hackathon Projects** | Hackathon projects and prototypes |
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+## Connect with me
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/u/yuht11/)
